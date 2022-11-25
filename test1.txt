@@ -1,9 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 5840-6C2E
-
- Directory of D:\MounikaGit
-
-25-11-2022  13:46    <DIR>          .
-25-11-2022  13:46                 0 test1.txt
-               1 File(s)              0 bytes
-               1 Dir(s)  132,443,725,824 bytes free
+ change 1
